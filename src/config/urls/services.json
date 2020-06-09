@@ -1,0 +1,29 @@
+{
+  "closedMethods": {
+    "getBisecFalseRuleResult": "{root}/api/closedMethods/bisecFalseRule",
+    "getIncrSearchResult": "{root}/api/closedMethods/incrSearch"
+  },
+  "integration": {
+    "getIntegrationResult": "{root}/api/integration"
+  },
+  "openMethods": {
+    "getFixedPointResult": "{root}/api/openMethods/fixedPoint",
+    "getMultipleRootsResult": "{root}/api/openMethods/multipleRoots",
+    "getNewtonResult": "{root}/api/openMethods/newton",
+    "getSecantResult": "{root}/api/openMethods/secant"
+  },
+  "setting": {
+    "getAll": "{root}/api/setting/getAll",
+    "save": "{root}/api/setting/updateSeveralByCategoryAndKey"
+  },
+  "sysOfLinEquations": {
+    "getBestLambdaResult": "{root}/api/sysOfLinEquations/getBestLambda",
+    "getFactorizationLUResult": "{root}/api/sysOfLinEquations/factorization",
+    "getGaussEliminationResult": "{root}/api/sysOfLinEquations/gaussElimination",
+    "getIterativeMethodsResult": "{root}/api/sysOfLinEquations/iterativeMethods"
+  },
+  "interpolation": {
+    "getInterpolationNewtonLagrangeResult": "{root}/api/interpolation/newtonLagrange",
+    "getSplinesResult": "{root}/api/interpolation/splines"
+  }
+}

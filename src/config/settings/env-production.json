@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "name": "production"
+  },
+  "payPal": {
+    "enviroment": "sandbox"
+  },
+  "reduxLogger": {
+    "isEnabled": false
+  },
+  "services": {
+    "root": ""
+  }
+}

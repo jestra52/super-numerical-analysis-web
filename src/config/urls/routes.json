@@ -1,0 +1,86 @@
+[
+  {
+    "component": "AppSettingsPageContainer",
+    "name": "settings",
+    "requiresLogout": false,
+    "url": "/app-settings"
+  },
+  {
+    "component": "BisecFalseRulePageContainer",
+    "name": "bisecFalseRule",
+    "requiresLogout": false,
+    "url": "/bisec-false-rule"
+  },
+  {
+    "component": "GaussEliminationPageContainer",
+    "name": "gaussElimination",
+    "requiresLogout": false,
+    "url": "/gauss-elimination"
+  },
+  {
+    "component": "FactorizationLUPageContainer",
+    "name": "factorizationLU",
+    "requiresLogout": false,
+    "url": "/factorization-LU"
+  },
+  {
+    "component": "HomePageContainer",
+    "name": "home",
+    "requiresLogout": false,
+    "url": "/"
+  },
+  {
+    "component": "IncrSearchPageContainer",
+    "name": "incrSearch",
+    "requiresLogout": false,
+    "url": "/incr-search"
+  },
+  {
+    "component": "IntegrationPageContainer",
+    "name": "integration",
+    "requiresLogout": false,
+    "url": "/integration"
+  },
+  {
+    "component": "IterMethodsPageContainer",
+    "name": "iterMethods",
+    "requiresLogout": false,
+    "url": "/iter-methods"
+  },
+  {
+    "component": "InterpolationNewtonLagrangePageContainer",
+    "name": "interpolationNewtonLagrange",
+    "requiresLogout": false,
+    "url": "/interpolation-newton-lagrange"
+  },
+  {
+    "component": "NewtonPageContainer",
+    "name": "newton",
+    "requiresLogout": false,
+    "url": "/newton"
+  },
+  {
+    "component": "FixedPointPageContainer",
+    "name": "fixedPoint",
+    "requiresLogout": false,
+    "url": "/fixed-point"
+  },
+  {
+    "component": "MultipleRootsPageContainer",
+    "name": "multipleRoots",
+    "requiresLogout": false,
+    "url": "/multiple-roots"
+  },
+  {
+    "component": "SecantPageContainer",
+    "name": "secant",
+    "requiresLogout": false,
+    "url": "/secant"
+  },
+  {
+    "component": "SplinesPageContainer",
+    "name": "interpolationSplines",
+    "requiresLogout": false,
+    "url": "/interpolation-splines"
+  }
+]

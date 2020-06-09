@@ -1,0 +1,18 @@
+{
+  "environment": {
+    "name": "unitTest"
+  },
+  "localStorage": {
+    "isEnabled": false
+  },
+  "reduxLogger": {
+    "isEnabled": false
+  },
+  "serviceMocker": {
+    "delayResponse": 0,
+    "isEnabled": true
+  },
+  "services": {
+    "root": ""
+  }
+}

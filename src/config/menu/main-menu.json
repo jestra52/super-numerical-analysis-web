@@ -1,0 +1,100 @@
+[
+  {
+    "icon": "home",
+    "isDefault": true,
+    "name": "home"
+  },
+  {
+    "icon": "insert_chart",
+    "isDefault": false,
+    "name": "closedMethods",
+    "submenuItems": [
+      {
+        "icon": "exposure_plus_1",
+        "isDefault": false,
+        "name": "incrSearch"
+      },
+      {
+        "icon": "linear_scale",
+        "isDefault": false,
+        "name": "bisecFalseRule"
+      }
+    ]
+  },
+  {
+    "icon": "multiline_chart",
+    "isDefault": false,
+    "name": "openMethods",
+    "submenuItems": [
+      {
+        "icon": "gps_fixed",
+        "isDefault": false,
+        "name": "fixedPoint"
+      },
+      {
+        "icon": "show_chart",
+        "isDefault": false,
+        "name": "newton"
+      },
+      {
+        "icon": "portable_wifi_off",
+        "isDefault": false,
+        "name": "secant"
+      },
+      {
+        "icon": "circle",
+        "isDefault": false,
+        "name": "multipleRoots"
+      }
+    ]
+  },
+  {
+    "icon": "apps",
+    "isDefault": false,
+    "name": "sysOfLinEquations",
+    "submenuItems": [
+      {
+        "icon": "sort",
+        "isDefault": false,
+        "name": "gaussElimination"
+      },
+      {
+        "icon": "table",
+        "isDefault": false,
+        "name": "factorizationLU"
+      },
+      {
+        "icon": "autorenew",
+        "isDefault": false,
+        "name": "iterMethods"
+      }
+    ]
+  },
+  {
+    "icon": "check",
+    "isDefault": false,
+    "name": "interpolation",
+    "submenuItems": [
+      {
+        "icon": "code",
+        "isDefault": false,
+        "name": "interpolationNewtonLagrange"
+      },
+      {
+        "icon": "timeline",
+        "isDefault": false,
+        "name": "interpolationSplines"
+      }
+    ]
+  },
+  {
+    "icon": "functions",
+    "isDefault": true,
+    "name": "integration"
+  },
+  {
+    "icon": "settings",
+    "isDefault": true,
+    "name": "settings"
+  }
+]

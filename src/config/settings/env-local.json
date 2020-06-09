@@ -1,0 +1,8 @@
+{
+  "environment": {
+    "name": "local"
+  },
+  "services": {
+    "root": "http://localhost:5000"
+  }
+}

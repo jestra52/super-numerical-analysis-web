@@ -1,0 +1,52 @@
+{
+  "appVersion": null,
+  "closedMethods": {
+    "bisecFalseRuleResult": {},
+    "incrSearchResult": {}
+  },
+  "commonData": {
+    "appSettingList": []
+  },
+  "integration": {
+    "integrationResult": {}
+  },
+  "loadingPage": {
+    "isVisible": false,
+    "msg": null
+  },
+  "mainMenu": {
+    "expandedItems": [],
+    "isExpanded": true
+  },
+  "modalDialog": {
+    "cancelLabel": null,
+    "customActions": null,
+    "isVisible": false,
+    "msg": null,
+    "okLabel": null,
+    "onConfirm": null,
+    "showCancel": true,
+    "title": null,
+    "width": null
+  },
+  "openMethods": {
+    "fixedPointResult": {},
+    "newtonResult" : {},
+    "multipleRootsResult" : {},
+    "secantResult": {}
+  },
+  "sysOfLinEquations": {
+    "factorizationLUResult": {},
+    "gaussEliminationResult": {},
+    "iterMethodsResult": {}
+  },
+  "interpolation": {
+    "interpolationNewtonLagrangeResult": {},
+    "splinesResult": {}
+  },
+  "toastNotification": {
+    "isVisible": false,
+    "msg": null,
+    "type": null
+  }
+}

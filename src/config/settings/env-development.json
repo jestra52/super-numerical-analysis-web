@@ -1,0 +1,8 @@
+{
+  "environment": {
+    "name": "development"
+  },
+  "services": {
+    "root": ""
+  }
+}

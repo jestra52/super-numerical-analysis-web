@@ -1,0 +1,11 @@
+{
+  "environment": {
+    "name": "staging"
+  },
+  "payPal": {
+    "enviroment": "production"
+  },
+  "services": {
+    "root": ""
+  }
+}

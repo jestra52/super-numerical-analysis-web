@@ -1,0 +1,33 @@
+{
+  "ajaxInterceptors": {
+    "convertRequestDataTo": "none",
+    "convertResponseDataTo": "none",
+    "showLoadingPage": true,
+    "showNotifications": true
+  },
+  "localStorage": {
+    "device": "localStorage",
+    "isEnabled": true,
+    "key": "state",
+    "savableState": ["appVersion", "commonData"],
+    "throttleWait": 1000
+  },
+  "payPal": {
+    "enviroment": "sandbox"
+  },
+  "reduxLogger": {
+    "isEnabled": true
+  },
+  "serviceMocker": {
+    "delayResponse": 300,
+    "isEnabled": false,
+    "loginEmail": "",
+    "loginPassword": "",
+    "passwordRecoveryCode": ""
+  },
+  "toastNoficiation": {
+    "autoHideDuration": 5000,
+    "horizontalPosition": "center",
+    "verticalPosition": "bottom"
+  }
+}
