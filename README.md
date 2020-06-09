@@ -17,6 +17,7 @@ $ npm start
 ```
 
 ## Web API requirements
+[Go to project repo](https://github.com/jestra52/supor-numerical-analysis-api)
 - [Python](https://www.python.org/) (3.8.2)
 - [NumPy](https://numpy.org/) (1.17.2)
 - [Pandas](https://pandas.pydata.org/) (0.25.1)
