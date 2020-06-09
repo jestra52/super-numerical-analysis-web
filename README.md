@@ -10,8 +10,8 @@ Web app made with React and Python which gives you the chance to get into the ba
 
 ## Setup for web app
 ```shell
-$ git clone https://SuperNumerico@dev.azure.com/SuperNumerico/ProyectoAnalisisNumerico/_git/super-numerical-methods-web
-$ cd super-numerical-methods-web
+$ git clone https://github.com/jestra52/super-numerical-analysis-web.git
+$ cd super-numerical-analysis-web
 $ npm install
 $ npm start
 ```
@@ -21,10 +21,11 @@ $ npm start
 - [NumPy](https://numpy.org/) (1.17.2)
 - [Pandas](https://pandas.pydata.org/) (0.25.1)
 - [Sympy](https://www.sympy.org/) (1.5.1)
+- [Flask](https://flask.palletsprojects.com) (1.1.1)
 
 ## Setup for web API
 ```shell
-$ git clone https://SuperNumerico@dev.azure.com/SuperNumerico/ProyectoAnalisisNumerico/_git/super-numerical-methods-api
-$ cd super-numerical-methods-api
+$ git clone https://github.com/jestra52/supor-numerical-analysis-api.git
+$ cd super-numerical-analysis-api
 $ python3 src/main.py
 ```
